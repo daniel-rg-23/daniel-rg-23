@@ -21,7 +21,7 @@ I'm a student of Artificial Intelligence and Data Science at the University of P
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/daniel-gomes-22216433b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-gomes-22216433b/)
 
 ---
 
